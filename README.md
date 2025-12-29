@@ -31,7 +31,7 @@ Despite their success, existing VQ-based BIR methods inherit a **fundamental mis
 <!-- Figure 1: Teaser / Overview -->
 <!-- Recommended: Fig.1 or Fig.5 (cropped) from the paper -->
 <p align="center">
-  <img src="assets/teaser.png" width="90%">
+  <img src="images/softVQ_5.png" width="90%">
 </p>
 <p align="center">
   <em>Replacing discrete vector quantization with vector regression leads to more accurate feature reconstruction and improved blind image restoration.</em>
