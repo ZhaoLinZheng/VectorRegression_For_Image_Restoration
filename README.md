@@ -85,13 +85,13 @@ Key characteristics of VR include:
 ---
 
 <!-- ========================= -->
-<!-- Figure 2: VQ vs Softmax vs VR -->
+<!-- Figure 2: VQ vs VR -->
 <!-- Recommended: Method comparison illustration -->
 <p align="center">
-  <img src="assets/vr_module.png" width="85%">
+  <img src="images/softVQ_5.png" width="85%">
 </p>
 <p align="center">
-  <em>From hard VQ to soft assignment and finally to vector regression: VR enables more flexible and accurate feature approximation.</em>
+  <em>From hard VQ to vector regression: VR enables more flexible and accurate feature approximation.</em>
 </p>
 <!-- ========================= -->
 
