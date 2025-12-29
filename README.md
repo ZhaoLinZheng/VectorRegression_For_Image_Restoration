@@ -27,19 +27,6 @@ Despite their success, existing VQ-based BIR methods inherit a **fundamental mis
 
 ---
 
-<!-- ========================= -->
-<!-- Figure 1: Teaser / Overview -->
-<!-- Recommended: Fig.1 or Fig.5 (cropped) from the paper -->
-<p align="center">
-  <img src="images/softVQ_5.png" width="90%">
-</p>
-<p align="center">
-  <em>Replacing discrete vector quantization with vector regression leads to more accurate feature reconstruction and improved blind image restoration.</em>
-</p>
-<!-- ========================= -->
-
----
-
 ## Motivation
 
 Vector quantization was originally designed to improve **image generation quality** by mapping continuous features onto a discrete codebook, which helps reduce uncertainty and stabilize generative modeling.  
@@ -115,14 +102,6 @@ Extensive experiments show that replacing VQ with VR consistently improves:
 - Blind image super-resolution (e.g., FeMaSR, AdaCode)
 
 VR achieves higher PSNR and SSIM while maintaining favorable computational efficiency.
-
-<!-- ========================= -->
-<!-- Figure 3: Visual or Quantitative Results -->
-<!-- Recommended: visual comparison or PSNR/SSIM bar chart -->
-<p align="center">
-  <img src="images/softVQ_5.png" width="90%">
-</p>
-<!-- ========================= -->
 
 ---
 
