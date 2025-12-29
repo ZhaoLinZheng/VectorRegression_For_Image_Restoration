@@ -120,7 +120,7 @@ VR achieves higher PSNR and SSIM while maintaining favorable computational effic
 <!-- Figure 3: Visual or Quantitative Results -->
 <!-- Recommended: visual comparison or PSNR/SSIM bar chart -->
 <p align="center">
-  <img src="assets/results.png" width="90%">
+  <img src="images/softVQ_5.png" width="90%">
 </p>
 <!-- ========================= -->
 
