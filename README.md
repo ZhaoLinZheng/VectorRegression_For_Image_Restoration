@@ -1,6 +1,6 @@
 # Rethinking the Role of Vector Quantization for Blind Image Restoration
 
-**IEEE Transactions on Multimedia (TMM), Accepted on Dec. 24, 2025**
+**IEEE Transactions on Multimedia (TMM), Accepted on Dec. 30, 2025**
 
 ---
 
